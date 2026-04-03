@@ -1,0 +1,62 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "정민규",
+      "birthday": "01.01.18",
+      "mbti": "ISTJ",
+      "hobby": "Game"
+    },
+    {
+      "id": 2,
+      "name": "김동현",
+      "birthday": "99.04.06",
+      "mbti": "ENTJ",
+      "hobby": "Basketball"
+    },
+    {
+      "id": 3,
+      "name": "김혜빈",
+      "birthday": "01.01.18",
+      "mbti": "ISTJ",
+      "hobby": "Game"
+    },
+    {
+      "id": 4,
+      "name": "황서진",
+      "birthday": "01.01.18",
+      "mbti": "ISTJ",
+      "hobby": "Game"
+    }
+  ],
+  "teamRule": [
+    {
+      "id": 1,
+      "desc": "반말하기"
+    },
+    {
+      "id": 2,
+      "desc": "결석시 미리 말하기"
+    },
+    {
+      "id": 3,
+      "desc": "아침에 인사하기"
+    },
+    {
+      "id": 4,
+      "desc": "욕하지 않기"
+    },
+    {
+      "id": 5,
+      "desc": "같이 밥(점심)먹기"
+    },
+    {
+      "id": 6,
+      "desc": "읽씹 금지"
+    },
+    {
+      "id": 7,
+      "desc": "모르면 도와주기 + 모르면 물어보기"
+    }
+  ]
+}
